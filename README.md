@@ -12,7 +12,7 @@ Hi there! I’m Marouane, a passionate Software & DevOps Engineer with a backgro
 - **CI/CD:** Jenkins, Github Actions 
 - **Cloud & Infrastructure:** DigitalOcean, AWS, GCP
 - **Testing:** SonarQube, JMeter, Selenium, TestContainers, JUnit
-- **Web Services:** REST,SOAP,gRPC,GraphQL
+- **Web Services:** REST, SOAP, gRPC, GraphQL
 
 ---
 
