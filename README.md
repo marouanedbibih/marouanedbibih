@@ -1,7 +1,3 @@
-Here’s a solid structure for your GitHub portfolio README:  
-
----
-
 # 💻 Marouane Dbibih – Software & DevOps Engineer  
 🚀 **Freelance Developer | Cloud Enthusiast | Full-Stack & DevOps Specialist**  
 
