@@ -11,12 +11,7 @@ Hi there! I’m Marouane, a passionate Software & DevOps Engineer with a backgro
 - **Monitoring:** Grafana, Prometheus, Loki  
 - **CI/CD:** Jenkins, SonarQube, Nexus  
 - **Cloud & Infrastructure:** DigitalOcean, AWS  
-- **Other:** Shell scripting, GraphQL, gRPC, JMeter, TestContainers  
-
-🌱 **Currently working on:**  
-- Building a large-scale web app with Angular, Spring, and SCSS  
-- Setting up scalable CI/CD pipelines for Docker Swarm infrastructure  
-- Expanding my freelance business and working toward my first client  
+- **Other:** Shell scripting, GraphQL, gRPC, JMeter, TestContainers
 
 ---
 
@@ -29,9 +24,7 @@ Hi there! I’m Marouane, a passionate Software & DevOps Engineer with a backgro
 ## 📫 Let’s Connect!  
 - **Portfolio:** [marouanedbibih.engineer](#)  
 - **LinkedIn:** [linkedin.com/in/marouanedbibih](#)  
-- **GitHub:** [github.com/MarouaneDbibih](#)  
-- **Email:** [Your Email Address]  
+- **GitHub:** [github.com/marouanedbibih](#)  
+- **Email:** [m.dbibih@gmail.com]  
 
 ---
-
-Would you like me to help draft the actual README in the canvas so you can tweak it directly? 🚀  
